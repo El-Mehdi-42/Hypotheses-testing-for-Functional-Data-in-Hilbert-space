@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+joblib
+
+# Optional, GPU acceleration (used only in FIGURE4, Supplementary_FIGURES_1_2,
+# and Supplementary_FIGURES_8_10_12_pas_tourner; can be skipped by using numpy instead)
+# cupy
